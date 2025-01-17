@@ -23,7 +23,7 @@ The grid will form a graphic showing uppercase letters, representing the secret 
 
 ### Example:
 
-For a Google Doc containing the following input data:
+For a [Google Doc](https://docs.google.com/document/d/e/2PACX-1vT6lXuBO3HUYW7NPqu0YslZ2ZRcOfQfCfQz3fr06x71U9K4aHWS2g4udFusvHRSwIJO4rB82J_llmcU/pub) containing the following input data:
 
 | x   | char | y   |
 |-----|------|-----|
@@ -70,6 +70,5 @@ The output grid would display:
 
 Feel free to adapt the approach based on your language choice (Python or JavaScript). Happy coding! 🚀
 
-## Google doc links
-Google doc link for the example: https://docs.google.com/document/d/e/2PACX-1vT6lXuBO3HUYW7NPqu0YslZ2ZRcOfQfCfQz3fr06x71U9K4aHWS2g4udFusvHRSwIJO4rB82J_llmcU/pub
-Google doc link for the secret message: https://docs.google.com/document/d/e/2PACX-1vTCF1dQ4oUhN7xxSXYflinbjV77TKwgJE43nRPXFS-oxedH93kLDgO8sSXjSm78_mN0POkD2ScEELym/pub
+## Google doc link for the secret message
+https://docs.google.com/document/d/e/2PACX-1vTCF1dQ4oUhN7xxSXYflinbjV77TKwgJE43nRPXFS-oxedH93kLDgO8sSXjSm78_mN0POkD2ScEELym/pub
